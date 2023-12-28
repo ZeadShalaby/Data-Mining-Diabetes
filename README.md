@@ -2,7 +2,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ZeadShalaby/Data-Mining-Diabetes">
-          <img src="https://imgur.com/IeW1mpG.png?w=1096" alt="Logo" width="300" height="270">
+          <img src="https://imgur.com/IeW1mpG.png?w=1200" alt="Logo" width="500" height="270">
     
   </a>
     
