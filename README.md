@@ -2,14 +2,14 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ZeadShalaby/Data-Mining-Diabetes">
-          <img src="https://img.freepik.com/premium-photo/hand-touching-virtual-info-graphics-with-trolley-cart-icons-technology-online-shopping-business-concept_50039-2510.jpg?w=996" alt="Logo" width="300" height="270">
+          <img src="https://imgur.com/IeW1mpG.png?w=996" alt="Logo" width="300" height="270">
     
   </a>
     
-<h3 align="center">Koko Fashion</h3>
+<h3 align="center"> Visualization & preprocessing & Algorithme & Ensemble </h3>
 
   <p align="center">
-     Project React with redux & api 
+     Project Diabetes
     <br/>
     <br/>
   </p>
@@ -28,11 +28,8 @@
 </p>
 
 ## About The Project
-
-Analyzing greenhouse gases at industrial & touristic areas & Revive environment ,
-We have a machine consisting of some sensors that read the percentages of greenhouse gases and temperatures in industrial or tourist places. The machine relies on entering this data into API daily to use this data that was recorded to train the data using machine learning to know the permissible percentages in the secretion of oxide gases or greenhouse gases
-
-
+This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective is to predict based on diagnostic measurements whether a patient has diabetes.
+with Visualization , preprocessing , Algorithme ( K-nearest neighbors  , Decision Tree , Logistic Regression , Naive Bayes , Multilayer Perceptron  ) , Ensemble algorithm
 ## Contributing
 
 Any contributions you make are **greatly appreciated**.
