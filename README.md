@@ -15,7 +15,7 @@
   </p>
   
 
-![Forks](https://img.shields.io/github/forks/ZeadShalaby/Data-Mining-Diabetes?style=social) ![Issues](https://img.shields.io/github/issues/ZeadShalaby/Data-Mining-Diabetes) ![License](https://img.shields.io/github/license/Data-Mining-Diabetes)
+![Forks](https://img.shields.io/github/forks/ZeadShalaby/Data-Mining-Diabetes?style=social) ![Issues](https://img.shields.io/github/issues/ZeadShalaby/Data-Mining-Diabetes) ![License](https://img.shields.io/github/license/ZeadShalaby/Data-Mining-Diabetes)
 
 ## Table Of Contents
 
