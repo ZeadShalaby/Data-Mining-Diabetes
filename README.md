@@ -1,7 +1,7 @@
 
 <br/>
 <p align="center">
-  <a href="https://github.com/ZeadShalaby/API_REVIVE_SYSTEM">
+  <a href="https://github.com/ZeadShalaby/Data-Mining-Diabetes">
           <img src="https://img.freepik.com/premium-photo/hand-touching-virtual-info-graphics-with-trolley-cart-icons-technology-online-shopping-business-concept_50039-2510.jpg?w=996" alt="Logo" width="300" height="270">
     
   </a>
@@ -15,85 +15,13 @@
   </p>
   
 
-![Forks](https://img.shields.io/github/forks/ZeadShalaby/React-eommerce?style=social) ![Issues](https://img.shields.io/github/issues/ZeadShalaby/React-eommerce) ![License](https://img.shields.io/github/license/ZeadShalaby/React-eommerce)
+![Forks](https://img.shields.io/github/forks/ZeadShalaby/Data-Mining-Diabetes?style=social) ![Issues](https://img.shields.io/github/issues/ZeadShalaby/Data-Mining-Diabetes) ![License](https://img.shields.io/github/license/Data-Mining-Diabetes)
 
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
-* [Built With](#built-with)
-* [Getting Started](#Getting-Started-with-Create-React-Ap)    
-* [Usage](#usage)
-    * [Available Scripts](#running-locally)
-    * [Learn More](#running-via-container)  
-* [Screenshots](#Screenshots)
-* [Authors](#authors)
 * [Contributing](#contributing)
-
-
-## Screenshots
-<p>
-# Screenshots
-
-📌Home Page:
-
-<img src="https://imgur.com/z0k1KSz.png" alt="project(Coise-User)" width="1000" height="550">
-
-
-
-📌Login Page:
-
-
-<img src="https://imgur.com/WWuCg4l.png" alt="project(Coise-User)" width="1000" height="550">
-
-
-
-
-📌About Page: 
-
-
-
-<img src="https://imgur.com/m0YeErd.png" alt="project(Coise-User)" width="1000" height="550">
-
-
-
-📌Contact_Us Page: 
-
-
-
-<img src="https://imgur.com/5PCNy3z.png" alt="project(Coise-User)" width="1000" height="550">
-
-
-
-📌Cart Page: 
-
-
-
-<img src="https://imgur.com/gfFP8R0.png" alt="project(Coise-User)" width="1000" height="550">
-
-
-
-📌Shopping History Page: 
-
-
-
-<img src="https://imgur.com/rFuwS4V.png" alt="project(Coise-User)" width="1000" height="550">
-
-
-
-📌Profile Page: 
-
-
-
-<img src="https://imgur.com/7jIjskB.png" alt="project(Coise-User)" width="1000" height="550">
-
-
-
-📌Footer Page: 
-
-
-
-<img src="https://imgur.com/EJpLFIG.png" alt="project(Coise-User)" width="1000" height="550">
-
+* [Authors](#authors)
 
 
 
@@ -110,7 +38,7 @@ We have a machine consisting of some sensors that read the percentages of greenh
 Any contributions you make are **greatly appreciated**.
 
 * If you have suggestions for adding or removing projects, feel free
-  to [open an issue](https://github.com/ZeadShalaby/Machine_Learning_Project/issues/new) to discuss it, or directly
+  to [open an issue](https://github.com/ZeadShalaby/Data-Mining-Diabetes/issues/new) to discuss it, or directly
   create a pull request after you edit the *README.md* file with necessary changes.
 * Please make sure you check your spelling and grammar.
 * Create individual PR for each suggestion.
